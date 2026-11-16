@@ -4,24 +4,24 @@
 # Lines starting with # are comments and are ignored.
 # ============================================================
 
-name=Prof. Pin Luarn
+name=Abdessamad Bouali
 
-title1=Top 2% Scientist Worldwide (2020-2026)
+title1=Young Talent Certification (TeamViewer)
 
-title2=2024 National Teaching Award Laureate
+title2=
 
-expertise=Internet Marketing, AI Applications, Agentic AI
+expertise=Saas, Software Sales, Agentic AI
 
-education=Ph.D. in Industrial Engineering, University of Wisconsin-Madison, USA
+education=MS.c. in Digital Business Management, Pforzheim University, Germany
 
-email=luarn@mail.ntust.edu.tw
-linkedin=https://pse.is/8nn88y
+email=abdessamad.bouali00@gmail.com
+linkedin=https://www.linkedin.com/in/abdessamad-bouali-165168271/
 
 about1=Prof. Luarn earned his B.S. in Industrial Engineering from Tunghai University,
 about2=and his M.S. and Ph.D. in Industrial Engineering from the University of Wisconsin-Madison.
 about3=Named among the world's top 2% scientists by Stanford University & Elsevier for seven consecutive years (2020-2026).
 about4=Recipient of the 2024 Presidential National Teaching Award, Taiwan
 
-phone=+886-2-2737-6754
+phone= 
 
-location=T2-409, National Taiwan University of Science and Technology, No. 43, Sec. 4, Keelung Rd., Taipei, Taiwan
+location=Goeppingen, Germany
